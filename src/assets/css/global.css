@@ -51,6 +51,7 @@ a{
 }
 
 .btn{
+    text-decoration: none;
     background-color: var(--main-second-color);
     border: none;
     border-radius: 5px;

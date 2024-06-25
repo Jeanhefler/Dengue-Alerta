@@ -65,7 +65,7 @@ export function Login(){
             </button>
         </form>
 
-        <Link to="/register">Crie sua conta</Link>
+        <Link to="/register" className=" btn mb-5">Crie sua conta</Link>
         </main>
         <Footer />
         </>
