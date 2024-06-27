@@ -88,7 +88,7 @@ export function Register(){
             </button>
         </form>
 
-        <Link to="/" className="mb-5">
+        <Link to="/" className="btn mb-5">
         Voltar para login
         </Link>
         </main>
